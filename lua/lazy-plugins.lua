@@ -12,4 +12,6 @@ return {
 	require("plugins/autopairs"),
 	require("plugins/lsp-zero"),
 	require("plugins/conform"),
+	require("plugins/gitsigns"),
+	require("plugins/lualine"),
 }
