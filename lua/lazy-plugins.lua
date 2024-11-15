@@ -14,4 +14,6 @@ return {
 	require("plugins/conform"),
 	require("plugins/gitsigns"),
 	require("plugins/lualine"),
+	require("plugins/nvim-treesitter"),
+	require("plugins/lazygit"),
 }
