@@ -68,8 +68,6 @@ local servers = {
 					},
 					pycodestyle = {
 						enabled = true,
-						ignore = { "E501" },
-						maxLineLength = 120,
 					},
 					pyflakes = {
 						enabled = false,
